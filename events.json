@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "title": "Example Meeting",
+        "start": "2025-12-05T12:30:00.000Z",
+        "end": "2025-12-05T13:30:00.000Z",
+        "organizer": "John Doe"
+    },
+    {
+        "id": "2",
+        "title": "Workshop",
+        "start": "2025-12-05T16:30:00.000Z",
+        "end": "2025-12-05T17:30:00.000Z",
+        "organizer": "Jane Smith"
+    }
+]
